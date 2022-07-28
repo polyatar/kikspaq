@@ -7,7 +7,7 @@
     "appCategories": [
         "'Скачать' - 'Установить' - 'Подписать' - 'Установить'"
     ],
-    "appRepositories": [
+    "apps": [
         {
             "appType": "SELF_SIGN",
             "name": "VK Again",
